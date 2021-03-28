@@ -10,3 +10,5 @@ you should nano /etc/apt/sources.list to make sure though.
 but for all you lazy people out there I was nice enough to add the edited one for kali 2019
 
 if none of this works do it manually
+
+NOTE: run this as root 
