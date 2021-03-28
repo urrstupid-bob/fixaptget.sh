@@ -5,3 +5,8 @@ this does work for kali 2019.4. but the good thing is that you do not have to do
 echo $(echo "deb http://http.kali.org/kali kali-rolling main contrib non-free" > /etc/apt/sources.list)
 I checked and this already has the  http://http.kali.org/kali kali-rolling main contrib non-free in it.
 you should nano /etc/apt/sources.list to make sure though.
+
+
+but for all you lazy people out there I was nice enough to add the edited one for kali 2019
+
+if none of this works do it manually
